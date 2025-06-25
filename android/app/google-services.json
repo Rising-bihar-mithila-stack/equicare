@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "278467875304",
+    "firebase_url": "https://equicare-52e84.firebaseio.com",
+    "project_id": "equicare-52e84",
+    "storage_bucket": "equicare-52e84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278467875304:android:90dbddbefefd7bcf1f145d",
+        "android_client_info": {
+          "package_name": "com.ozit.equicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278467875304-0m4irfp11q5tdbmtdism5790mlf0keqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ozit.equicare",
+            "certificate_hash": "318b31d8d38fcfc1f05e54df4a5ea3d0db85c80e"
+          }
+        },
+        {
+          "client_id": "278467875304-k1bhcsoqks4kg4f7s73ur94ago5bv04r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ozit.equicare",
+            "certificate_hash": "ce028254a991fbb1dd0894d758e2e44c58801199"
+          }
+        },
+        {
+          "client_id": "278467875304-sfu8me3ka0h7d8iipjuqve8m3io0nrus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9SgImtgBKQnDwAHMU1g2hvIjxxLz6IBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278467875304-sfu8me3ka0h7d8iipjuqve8m3io0nrus.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278467875304-03mj624h2kq8l0psdtohg4ian2jo06gl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ozit.EquiCare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
